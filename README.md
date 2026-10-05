@@ -17,15 +17,6 @@ La API utilizada es:
 
 `https://dummyjson.com/products`
 
-## Requisitos
-
-Para ejecutar el proyecto es necesario tener instalado:
-
-* [Node.js](https://nodejs.org/)
-* npm, que viene incluido con Node.js.
-
-El proyecto utiliza `fetch`, disponible de forma nativa en versiones modernas de Node.js.
-
 ## Uso
 
 ### Consultar todos los productos
